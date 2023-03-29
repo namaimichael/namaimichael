@@ -1,5 +1,5 @@
 # Michael Martin - Senior DevOps Engineer
-- 👋 Hi, I’m **@namaimichael**, a Senior DevOps Engineer with over 10 years of experience in the industry.
+- 👋 Hi, I’m **[Michael Martin](https://github.com/namaimichael)**, a Senior DevOps Engineer with over 10 years of experience in the industry.
 - 👀 I’m passionate about Cloud platforms, Infrastructure as Code, CI/CD pipelines, automation, and optimizing software delivery processes.
 - 💞️ I’m looking to collaborate on complex DevOps projects where I can contribute my expertise and continue learning from fellow professionals.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/namaimichael/)
@@ -28,10 +28,8 @@ Here are some of the projects I've worked on:
 - **TESPOK**: Automated infrastructure security compliance checks and remediation using Chef InSpec and AWS Config, ensuring adherence to industry standards and best practices
 
 ## 🤝 Networking and Community
-I'm an active member of the following communities, where I learn from others, share my experiences, and contribute to the growth of the DevOps community:
+I'm an active member of the technical communities, where I learn from others, share my experiences, and contribute to the growth of the DevOps community:
 
-- [DevOps Discord](https://discord.gg/devops)
-- [AWS Community Slack](https://aws-community-slack.herokuapp.com/)
 - [GitHub](https://github.com/namaimichael)
 
 

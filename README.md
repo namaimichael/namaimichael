@@ -1,4 +1,4 @@
-# Michael Martin - Senior DevOps Engineer
+# Michael Martin - DevOps Engineer
 - 👋 Hi, I’m **[Michael Martin](https://github.com/namaimichael)**, a Senior DevOps Engineer with over 10 years of experience in the industry.
 - 👀 I’m passionate about Cloud platforms, Infrastructure as Code, CI/CD pipelines, automation, and optimizing software delivery processes.
 - 💞️ I’m looking to collaborate on complex DevOps projects where I can contribute my expertise and continue learning from fellow professionals.
